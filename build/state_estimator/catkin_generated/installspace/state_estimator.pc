@@ -1,0 +1,8 @@
+prefix=/home/hussainv10/ros_wkspace_asgn5_new/install
+
+Name: state_estimator
+Description: Description of state_estimator
+Version: 0.0.0
+Cflags: -I/home/hussainv10/ros_wkspace_asgn5_new/install/include
+Libs: -L/home/hussainv10/ros_wkspace_asgn5_new/install/lib 
+Requires: rospy std_msgs message_runtime
